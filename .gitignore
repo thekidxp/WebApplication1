@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+*.user
+/WebApplication1/bin
+/TestProject1/bin/Debug
+/WebApplication1/obj/Debug
+/TestProject1/obj/Debug
+/packages/NUnit3TestAdapter.3.7.0
+/.vs
+/Backup
+/.idea
